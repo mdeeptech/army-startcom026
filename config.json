@@ -1,0 +1,15 @@
+{
+  "feeds": [
+    {"name": "Reuters Defense", "url": "https://www.reutersagency.com/feed/?best-topics=defense&format=xml", "category": "Global News"},
+    {"name": "Defense News", "url": "https://www.defensenews.com/arc/outboundfeeds/rss/?outputType=xml", "category": "Global Military"},
+    {"name": "Janes Intel", "url": "https://www.janes.com/rss-feeds/defence-news", "category": "Strategic Intel"},
+    {"name": "PIB India", "url": "https://pib.gov.in/RssMain.aspx?ModId=9&Lang=1", "category": "Government"}
+  ],
+  "global_search_queries": [
+    "Indian Army LAC",
+    "DRDO Hypersonic Missile",
+    "India-China border status",
+    "Indian Navy Submarine procurement",
+    "HAL AMCA progress 2026"
+  ]
+}
